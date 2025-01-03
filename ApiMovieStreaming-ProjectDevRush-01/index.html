@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StreamFlex</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">SkepsisFlex</div>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search movies, TV shows...">
+            <div id="suggestions" class="suggestions"></div>
+        </div>
+    </nav>
+
+    <main>
+        <div id="player-container" class="hidden">
+            <iframe id="videoPlayer" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div id="featured">
+            <h2>Featured Content</h2>
+            <div id="mediaGrid"></div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
