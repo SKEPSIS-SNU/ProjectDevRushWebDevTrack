@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const playerContainer = document.getElementById('player-container');
     const mediaGrid = document.getElementById('mediaGrid');
 
-    const OMDB_API_KEY = '4d2697a5';
+    const OMDB_API_KEY = '4d2697a5'; // make sure to generate your own api key and use
     let debounceTimer;
     let currentMedia = null;
 

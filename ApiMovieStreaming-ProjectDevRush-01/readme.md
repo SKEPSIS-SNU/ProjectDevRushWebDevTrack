@@ -3,6 +3,8 @@
 
 A vanilla JavaScript project demonstrating API integration, DOM manipulation, and async programming through a movie streaming platform interface.
 
+#### Make sure to generate your own omdb api key and replace in script.js
+
 ## Project Overview
 Build a streaming platform interface that allows users to:
 - Search movies and TV shows
