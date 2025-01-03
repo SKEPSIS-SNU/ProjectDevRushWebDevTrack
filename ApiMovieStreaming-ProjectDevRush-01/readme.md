@@ -3,7 +3,15 @@
 
 A vanilla JavaScript project demonstrating API integration, DOM manipulation, and async programming through a movie streaming platform interface.
 
-#### Make sure to generate your own omdb api key and replace in script.js
+> ### ⚠️ IMPORTANT: API Key Configuration
+> ```javascript
+> // GENERATE YOUR OWN API KEY!
+> // Visit https://www.omdbapi.com/apikey.aspx to get your key
+> const OMDB_API_KEY = '4d2697a5';  // Replace with your API key
+> ```
+> **⚡ Critical Step:** You must generate your own OMDB API key and replace the placeholder above.
+> 
+> ---
 
 ## Project Overview
 Build a streaming platform interface that allows users to:
