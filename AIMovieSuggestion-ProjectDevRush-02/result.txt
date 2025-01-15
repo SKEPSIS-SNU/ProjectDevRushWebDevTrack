@@ -1,0 +1,12 @@
+```javascript
+[
+  'tt0468569', // Batman Begins
+  'tt0468569', // Batman Begins (duplicate to simulate preference)
+  'tt0944947', // Game of Thrones
+  'tt0903747', // Breaking Bad
+  'tt1475582', // Sherlock
+  'tt0108778', // Friends
+  'tt0455275', // Prison Break
+  'tt0773262'  // Dexter
+]
+```
